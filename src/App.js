@@ -12,10 +12,88 @@ function App() {
         <h1>Theodore</h1>
         <p></p>
         <p></p>
-        <h1>Kiyomi</h1>
-        <p></p>
-        <p></p>
-        <h1>Hannah</h1>
+        <h1>Consumer Benefits of IOT: </h1>
+        <p>
+          IOT for consumers is all about convenience—doing more with less. From
+          Smart Homes to Connected Cars to Smart Offices, to Smart Cities
+          several IoT solutions are being built and adopted to help humans with
+          their comfort.
+        </p>
+        <ul>
+          <h3>Comfort and Convenience</h3>
+          <li>
+            As devices and appliances get smarter, a smart home can integrate
+            their abilities as well, for example, your laundry schedule can be
+            integrated using your smart washing machine. And as it has been
+            dreamt about for long, your smart refrigerator can order groceries.
+            But ideally, the refrigerator notifies you of the shopping cart so
+            that you decide what you want, rather than the refrigerator – it
+            should just suggest – let us put it in its place! When you are away
+            on holidays, your plants can be automatically watered, at the right
+            level, by sensing the humidity of the soil.
+          </li>
+          <h3>Efficiency</h3>
+          <li>
+            The next spheres of IOT’s influences are Smart Cities and Smart
+            Nations. At the city level, information from various homes,
+            localities, buildings can be correlated for better energy
+            management, traffic management, and city planning, further providing
+            benefits to residents. Smart homes, smart cars, smart cities depend
+            on smart appliances. But to integrate them together, to make
+            personalized meaning of them collectively and IOT platform is
+            needed.
+          </li>
+          <h3>Security</h3>
+          <li>
+            If the devices are properly secured with authentication,
+            authorization and encryption, IOT can make your life safer and more
+            secure. Smart locks for homes and car can warn of you unauthorized
+            access. They can lock themselves if you forgot to lock, they can
+            learn patterns.
+          </li>
+        </ul>
+        <h1>Voice Focus</h1>
+        <p>
+          Some of today's most popular voice assistants include Siri, Alexa and
+          Google Assistant.{" "}
+          <em>
+            Have you ever used to check the weather forecast or to send a text
+            message to a phone contact?
+          </em>
+        </p>
+        <p>
+          Voice assistants are run by voice recognition software used through
+          electronic devices like smartphones or speakers. You can use voice
+          control to run commands and perform tasks with the power of your
+          voice. How does it work? Voice assistants are activated by saying a
+          wake word to your device for example “Hey Siri” or “Alexa”.
+        </p>
+        <p>
+          Voice assistants are really useful as they allow consumers to do daily
+          tasks hands free and are seen as the smarter, faster and easier way to
+          perform everyday activities.
+        </p>
+        <p>
+          Voice assistants are really useful as they allow consumers to do daily
+          tasks hands free and are seen as the smarter, faster and easier way to
+          perform everyday activities.{" "}
+        </p>
+        <em>What can voice assistants do?</em>
+        <p>
+          {" "}
+          There are a range of things that voice assistants can do which
+          include:
+          <ul>
+            <li>Contract thermostats, lights and locks</li>
+            <li>Send email/text messages or initiate calls</li>
+            <li>Buy items online</li>
+            <li>Locate lost smartphones or other devices</li>
+            <li>Check traffic conditions and map travel routes</li>
+            <li>Read books or newspapers aloud</li>
+            <li>Schedule meetings</li>
+          </ul>
+        </p>
+
         <h1>Internet of Things (ioT) Security in Focus</h1>
         <p>
           Security is one of the most important concerns in the IoT industry.
