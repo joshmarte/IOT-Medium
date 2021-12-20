@@ -1,6 +1,6 @@
 html {
   max-width: 80ch;
-  padding: 3em 1em;
+  padding: 0 1em;
   margin: auto;
   line-height: 1.75;
   font-size: 1.25em;
@@ -23,7 +23,7 @@ ol {
   font-family: sans-serif;
 }
 
-#security-img img {
+img {
   height: 350px;
   width: 700px;
 }
@@ -71,4 +71,8 @@ ol {
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
+}
+
+#header {
+  width: 100%;
 }

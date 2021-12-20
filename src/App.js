@@ -3,6 +3,9 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+      <header>
+        <img id="header" src=".//codeFellows.jpg"></img>
+      </header>
       <article>
         <h1>What is Internet of Things?</h1>
         <p>
@@ -88,6 +91,9 @@ function App() {
             learn patterns.
           </li>
         </ul>
+        <figure id="hannah-img">
+          <img src=".//hannah.png" />
+        </figure>
         <h1>Voice Focus</h1>
         <p>
           Some of today's most popular voice assistants include Siri, Alexa and
