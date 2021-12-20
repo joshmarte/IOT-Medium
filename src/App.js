@@ -99,7 +99,7 @@ function App() {
           Some of today's most popular voice assistants include Siri, Alexa and
           Google Assistant.{" "}
           <em>
-            Have you ever used to check the weather forecast or to send a text
+            Have you ever a used a voice assistant to check the weather forecast or to send a text
             message to a phone contact?
           </em>
         </p>
