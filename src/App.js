@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <img id="header" src=".//codeFellows.jpg"></img>
+        <img id="header" src=".//landCF.jpg"></img>
       </header>
       <article>
         <h1>What is Internet of Things?</h1>
@@ -15,12 +15,12 @@ function App() {
           Ashton, co-founder of AUTO-ID Laboratory at MIT.
         </p>
         <p>
-          IoT has not been around too long, but the visions of everyday machines
-          communicating with on another goes back as far as the 1800s. Having
+          IoT has not been around too long, but the vision of everyday machines
+          communicating with one another goes back as far as the 1800s. Having
           the first voice transmission taking place in 1900, described as
           “wireless telegraphy”, to the internet starting out as part of
           DARPA(Defense Advanced Research Projects Agency) in 1962 which then
-          evolved in ARPANET(Adanced Research Projects Agency Network), both
+          evolved in ARPANET(Advanced Research Projects Agency Network), both
           providing necessary components for the development of Internet of
           Things. One additional vital component in the development of IoT was
           the IPV6(Internet Protocol version 6), which increased address space.

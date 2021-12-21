@@ -19,13 +19,20 @@ p,
 ul,
 ol {
   margin-bottom: 2em;
-  color: #1d1d1d;
-  font-family: sans-serif;
+  color: navajowhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 img {
   height: 350px;
   width: 700px;
+}
+
+.App {
+  background: url("https://ak.picdn.net/shutterstock/videos/1023435892/thumb/10.jpg");
+  width: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: bisque;
 }
 
 #security-img {
